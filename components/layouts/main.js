@@ -22,7 +22,7 @@ const Main = ({children, router}) => {
                 {children}
             </Container>
         </Box>
-<Footer path={router.asPath} />
+<Footer />
     )
 }
 
