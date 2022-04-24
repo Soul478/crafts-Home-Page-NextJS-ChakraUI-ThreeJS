@@ -1,5 +1,5 @@
 import React, {useState } from 'react'
-import Navbar from '../navbar'
+import Navbar from '../navbar.js'
 
 const Footer = (props) => {
     const [isOpen, setIsOpen] = useState(false)
