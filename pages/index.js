@@ -69,11 +69,7 @@ const Page = () => {
                             digital services/stuff he wants. He has a knack for things launching 
                             products, from planning and designing all the way to solving real-life 
                             problems with code. When not online, he loves hanging out with his camera. 
-                            Currently he is living off of his own city called {' '}<NextLink 
-                            href="/works/SpiriTech" passHref>
-                                <Link>SpiriTech</Link>
-                            </NextLink>
-                            .
+                            Currently he is living off of his own city.
                         </Paragraph>
                         <Box align="center" my={4}>
                             <NextLink href="/works" passHref>
