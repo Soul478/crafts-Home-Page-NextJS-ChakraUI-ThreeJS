@@ -19,8 +19,8 @@ const Main = ({children, router}) => {
                 <VoxelDog />
                 </NoSsr>
                 {children}
-<VStack w="100%" h="30px" {useColorModeValue('#ffffff40', '#20202380')}>
-            <Text>Copyright 2022 | SpiriTech</Text>
+<VStack w="140%" h="27px" {useColorModeValue('#ffffff40', '#20202380')}>
+            <Text>© SpiriTech 2022</Text>
             </VStack>
             </Container>  
         </Box>
