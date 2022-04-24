@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Navbar from '../navbar.js'
 import NoSsr from '../no-ssr.js'
-import {Box, Container} from '@chakra-ui/react'
+import {Box, Container, Text, VStack} from '@chakra-ui/react'
 import VoxelDog from '../voxel-dog.js'
 
 const Main = ({children, router}) => {
@@ -19,6 +19,10 @@ const Main = ({children, router}) => {
                 <VoxelDog />
                 </NoSsr>
                 {children}
+<VStack w="100%" h="28px" { useColorModeValue('#ffffff40', '#20202380') }
+>
+            <Text>© SpiriTech 2022</Text>
+            </VStack>
             </Container>  
         </Box>
 
