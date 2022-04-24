@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Navbar from '../navbar.js'
 import NoSsr from '../no-ssr.js'
-import {Box, Container, Text, VStach} from '@chakra-ui/react'
+import {Box, Container, Text, VStack} from '@chakra-ui/react'
 import VoxelDog from '../voxel-dog.js'
 
 const Main = ({children, router}) => {
@@ -20,10 +20,11 @@ const Main = ({children, router}) => {
                 </NoSsr>
                 {children}
             </Container>
+            <VStack w="100%" h="30px" bg="gray.400">
+            <Text>Copyright 2022 | SpiriTech</Text>
+            </VStack>
         </Box>
-<VStack w="100%" h="30px" bg="gray.400">
-    <Text>Copyright 2022 | SpiriTech</Text>
-</VStack>
+
     )
 }
 
