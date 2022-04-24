@@ -21,8 +21,8 @@ const Main = ({children, router}) => {
                 </NoSsr>
                 {children}
             </Container>
-        </Box>
         <Footer />
+        </Box>
     )
 }
 
