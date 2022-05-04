@@ -109,7 +109,7 @@ const Page = () => {
                         <Link href="https://illust.odoruinu.net/" passHref>
                             Drawing
                         </Link>
-                        , Travel, Machine Learning
+                        , Travel, Machine Learning, Sport.
                     </Paragraph>
                 </Section>
 
