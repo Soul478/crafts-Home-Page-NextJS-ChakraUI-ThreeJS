@@ -105,11 +105,7 @@ const Page = () => {
                     I 🤍
                     </Heading>
                     <Paragraph>
-                        Art, Music,{' '}
-                        <Link href="https://illust.odoruinu.net/" passHref>
-                            Drawing
-                        </Link>
-                        , Travel, Machine Learning, Sport.
+                        Art, Music, Travel, Machine Learning, Sport.
                     </Paragraph>
                 </Section>
 
