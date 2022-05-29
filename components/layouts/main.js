@@ -11,7 +11,7 @@ const Main = ({children, router}) => {
             <Head>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-                <title>CHABANA Mohamed Amin - Homepage</title>
+                <title>CHABANA Mohamed Amin - Home</title>
             </Head>
 
             <Navbar path={router.asPath} />
