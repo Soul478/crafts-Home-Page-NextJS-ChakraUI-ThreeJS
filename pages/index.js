@@ -55,7 +55,7 @@ const Page = () => {
                         maxWidth="123px"
                         display="inline-block"
                         borderRadius="full"
-                        src="/images/Amin_.jpg"
+                        src="/images/Amin_.JPG"
                         alt="Profile Image"
                         />
                     </Box>
