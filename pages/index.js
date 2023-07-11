@@ -66,7 +66,7 @@ const Page = () => {
                     </Heading>
                         <Paragraph>Mohamed Amin is a Freelance, Full-Stack Developer& 
                             Systems Administrator based in Morocco with a passion of building 
-                            Digital Services/Stuff he wants. He has a knack for things launching 
+                            Digital Services/ Stuff he wants. He has a knack for things launching 
                             products, from planning and designing all the way to solving real-life 
                             problems with code. When not Online, he loves hanging out with his camera. 
                             Currently he is living off of his own City.
@@ -74,7 +74,7 @@ const Page = () => {
                         <Box align="center" my={4}>
                             <NextLink href="/works" passHref>
                                 <Button rightIcon={<ChevronRightIcon />} colorsheme="teal">
-                                My portfolio
+                                My Portfolio
                                 </Button>
                             </NextLink>
                         </Box>
@@ -89,19 +89,19 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2017</BioYear>
-                        Graduate in the IT as a Specialized Technician at the Specialized Institute Of Applied Technology
+                        Graduate in IT as a Specialized Technician at the Specialized Institute Of Applied Technology.
                     </BioSection>
                     <BioSection>
                         <BioYear>2020</BioYear>
-                        Completed the Bachelor&apos;s Program (Informatics Systems Engineering) in the National School of Applied Sciences at Ibn Tofail University
+                        Completed the Bachelor&apos;s Program (Informatics Systems Engineering) in the National School of Applied Sciences at Ibn Tofail University.
                     </BioSection>
                     <BioSection>
                         <BioYear>2020 to 2022</BioYear>
-                        Works as a freelance
+                        Works as a freelancer.
                     </BioSection>
                     <BioSection>
                         <BioYear>2022 to Present</BioYear>
-                        Works as an IT Systems Administrator
+                        Works as an IT Systems Administrator.
                     </BioSection>
                 </Section>
                 <Section delay={0.3}>
