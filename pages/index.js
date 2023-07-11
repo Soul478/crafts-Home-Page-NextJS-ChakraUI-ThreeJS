@@ -29,7 +29,7 @@ const Page = () => {
                 p={3}
                 mb={6}
                 align="center">
-                Hello, I&apos;m a Full-Stack Programmer based in Morocco !
+                Hello, I&apos;m a Full-Stack Programmer based in Saudi Arabia, Riyadh !
                 </Box>
                 
                 <Box display={{md: 'flex'}}>
@@ -38,7 +38,7 @@ const Page = () => {
                     CHABANA Mohamed Amin
                 </Heading>
                 <p>
-                    Digital Tech (Developer / Administrator / Artist)
+                    Digital Tech (Developer / Administrator)
                 </p>
                     </Box>
                     <Box
@@ -64,12 +64,12 @@ const Page = () => {
                 <Heading as="h3" variant="section-title">
                     Work
                     </Heading>
-                        <Paragraph>Mohamed Amin is a Freelance, Full-Stack Developer and 
+                        <Paragraph>Mohamed Amin is a Freelance, Full-Stack Developer& 
                             Systems Administrator based in Morocco with a passion of building 
-                            digital services/stuff he wants. He has a knack for things launching 
+                            Digital Services/Stuff he wants. He has a knack for things launching 
                             products, from planning and designing all the way to solving real-life 
-                            problems with code. When not online, he loves hanging out with his camera. 
-                            Currently he is living off of his own city.
+                            problems with code. When not Online, he loves hanging out with his camera. 
+                            Currently he is living off of his own City.
                         </Paragraph>
                         <Box align="center" my={4}>
                             <NextLink href="/works" passHref>
@@ -96,8 +96,12 @@ const Page = () => {
                         Completed the Bachelor&apos;s Program (Informatics Systems Engineering) in the National School of Applied Sciences at Ibn Tofail University
                     </BioSection>
                     <BioSection>
-                        <BioYear>2020 to present</BioYear>
+                        <BioYear>2020 to 2022</BioYear>
                         Works as a freelance
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2022 to Present</BioYear>
+                        Works as an IT Systems Administrator
                     </BioSection>
                 </Section>
                 <Section delay={0.3}>
