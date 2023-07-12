@@ -65,7 +65,7 @@ const Page = () => {
                     Work
                     </Heading>
                         <Paragraph>Mohamed Amin is a Freelance, Full-Stack Developer& 
-                            Systems Administrator based in Morocco with a passion of building 
+                            Systems Administrator based in Saudi Arabia, Riyadh with a passion of building 
                             Digital Services/ Stuff he wants. He has a knack for things launching 
                             products, from planning and designing all the way to solving real-life 
                             problems with code. When not Online, he loves hanging out with his camera. 
@@ -96,11 +96,11 @@ const Page = () => {
                         Completed the Bachelor&apos;s Program (Informatics Systems Engineering) in the National School of Applied Sciences at Ibn Tofail University.
                     </BioSection>
                     <BioSection>
-                        <BioYear>2020 to 2022</BioYear>
+                        <BioYear>2020 To 2022</BioYear>
                         Works as a freelancer.
                     </BioSection>
                     <BioSection>
-                        <BioYear>2022 to Present</BioYear>
+                        <BioYear>2022 To Present</BioYear>
                         Works as an IT Systems Administrator.
                     </BioSection>
                 </Section>
