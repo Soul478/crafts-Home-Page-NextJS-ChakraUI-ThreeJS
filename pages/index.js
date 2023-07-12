@@ -68,7 +68,7 @@ const Page = () => {
                             Systems Administrator based in Saudi Arabia, Riyadh with a passion of building 
                             Digital Services/ Stuff he wants. He has a knack for things launching 
                             products, from planning and designing all the way to solving real-life 
-                            problems with code. When not Online, he loves hanging out with his camera. 
+                            problems with Code. When not Online, he loves hanging out with his camera. 
                             Currently he is living off of his own City.
                         </Paragraph>
                         <Box align="center" my={4}>
