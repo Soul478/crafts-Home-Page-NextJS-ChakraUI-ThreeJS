@@ -95,7 +95,7 @@ const Navbar = props => {
                         <NextLink href="/posts" passHref>
                             <MenuItem as={Link}>Posts</MenuItem>
                         </NextLink>
-                            <MenuItem as={Link} href="https://linktr.ee/SpiriTech" passHref>View Source
+                            <MenuItem as={Link} passHref>View Source
                             </MenuItem>
                     </MenuList>
                 </Menu>
